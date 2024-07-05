@@ -1,0 +1,19 @@
+h1{
+    font-size: xx-large;
+    color: darkred;
+    background-color:black ;
+    font-size: 75px;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+    border: 5px solid black(2, 225, 249);
+    margin: 50px;
+    padding: 10px;
+    background-color: red black white;
+    box-shadow: red;
+}
+#b{
+    background-color: black;
+}
